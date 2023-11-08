@@ -1,10 +1,3 @@
-# assignment: Programming Assignment 4
-# author: Kriti Bhargava
-# date: 03/06/2023
-# file: stack.py 
-# input: The user will enter a simple mathmatical expression 
-# output: The calculator will evaluate the function and output the answer. To quit the calculator you enter 'q' or 'quit'
-
 class Stack:
     def __init__(self):
         self.items = []
