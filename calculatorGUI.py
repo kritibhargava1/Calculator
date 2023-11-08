@@ -1,4 +1,3 @@
-# create a GUI calculator using tkinter
 from tkinter import *
 import stack
 import tree
