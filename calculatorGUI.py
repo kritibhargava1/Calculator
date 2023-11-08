@@ -1,10 +1,3 @@
-# assignment: Programming Assignment 4
-# author: Kriti Bhargava
-# date: 03/06/2023
-# file: calculatorGUI.py 
-# input: The user will enter a simple mathmatical expression using the buttons on the calculator
-# output: The calculator will evaluate the function and output the answer. To quit the calculator you enter 'q' or 'quit'
-
 # create a GUI calculator using tkinter
 from tkinter import *
 import stack
